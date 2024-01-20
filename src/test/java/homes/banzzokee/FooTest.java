@@ -20,4 +20,13 @@ public class FooTest {
         assertEquals(2, 2);
         assertEquals(2, 2);
     }
+
+    @Test
+    @DisplayName("This is a test with a display name2")
+    void someTest3() {
+        assertEquals(2, 2);
+        assertEquals(2, 2);
+        assertEquals(2, 2);
+        assertEquals(2, 2);
+    }
 }
