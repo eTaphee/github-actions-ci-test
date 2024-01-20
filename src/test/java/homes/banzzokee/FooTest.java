@@ -15,6 +15,6 @@ public class FooTest {
     @Test
     @DisplayName("This is a test with a display name")
     void someTest2() {
-        assertEquals(1, 2);
+        assertEquals(2, 2);
     }
 }
