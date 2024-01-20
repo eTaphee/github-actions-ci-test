@@ -8,7 +8,6 @@ public class BanzzokeeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BanzzokeeApplication.class, args);
-		빌드 안되게 방해!
 	}
 
 }
